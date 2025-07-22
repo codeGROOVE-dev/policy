@@ -45,7 +45,7 @@ Security logs collected centrally and retained for 90 days. Automated alerts for
 
 Everything encrypted with AES-256 minimum using industry standards. Encryption keys managed through cloud provider services.
 
-## Privacy Policy
+## Privacy
 
 We collect only what's needed and never sell your data. You can request, update, or delete your info anytime through your account or email. All data relating to a customer expires in 21 days.
 
