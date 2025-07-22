@@ -47,7 +47,7 @@ Everything encrypted with AES-256 minimum using industry standards. Encryption k
 
 ## Privacy
 
-We only store your data for the purposes of caching or logging for incident response. You can request, update, or delete your information at any time. All data relating to a user expires within 14 days.
+We only store your data for the purposes of caching or logging for incident response. You can request, update, or delete your information at any time. All user data is automatically deleted after 7 days.
 
 ## Anti-Human Trafficking
 
