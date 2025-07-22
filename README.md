@@ -31,7 +31,7 @@ Critical systems have automated backups tested yearly. Recovery targets document
 
 ## HR Security
 
-Security training completed yearly for all team members. Third-party contractors get background verification before system access.
+Security training completed yearly for all team members. We do not provide contractors with access to our systems.
 
 ## Physical Security
 
