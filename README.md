@@ -47,7 +47,7 @@ Everything encrypted with AES-256 minimum using industry standards. Encryption k
 
 ## Privacy
 
-We collect only what's needed and never sell your data. You can request, update, or delete your info anytime through your account or email. All data relating to a customer expires in 21 days.
+We only store your data for the purposes of caching or logging for incident response. You can request, update, or delete your information at any time. All data relating to a user expires within 14 days.
 
 ## Anti-Human Trafficking
 
