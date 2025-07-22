@@ -1,47 +1,47 @@
-# codeGROOVE Policies
+### codeGROOVE policies
 
-## Acceptable Use Policy
-Users shouldn't abuse our service for illegal activities, spam, or harming others. When they do, we suspend accounts and notify affected customers immediately.
 
-## Access Control
-Everyone gets FIDO2 keys because passwords always fail. We log all privileged access with immutable trails and review quarterly.
+### Acceptable Use Policy
+This service is a tool for productive work, and we require that it be used for lawful purposes only. We will suspend accounts that engage in illegal activities, spam, or harm to others to protect the integrity of the platform.
 
-## Anti-Human Trafficking
-Zero tolerance for trafficking or forced labor anywhere. Violations get reported to law enforcement immediately.
+### Access Control
+We secure our systems with modern FIDO2 keys because passwords are no longer sufficient. All privileged access is logged in an immutable trail and reviewed quarterly.
 
-## Business Continuity & Backup
-Critical systems back up daily to geographically distributed, encrypted storage. Disasters trigger automatic failover with four-hour recovery and zero data loss.
+### Anti-Human Trafficking
+Our company maintains a strict zero-tolerance policy against human trafficking and forced labor in any form. We will report any violation of this policy to law enforcement immediately.
 
-## Change Management
-Production changes need documentation and rollback plans first. Emergency fixes get documented within a day, and development stays completely separated from production.
+### Business Continuity & Backup
+We back up critical systems daily to geographically distributed, encrypted storage to ensure your data is always safe. We make it a point to never rely on stored user data, so there isn't much for us to lose.
 
-## Compliance Management
-We're working toward SOC 2 and GDPR compliance through independent yearly audits with public attestations. Violations get tracked, fixed on schedule, and customers notified.
+### Change Management
+All production changes require clear documentation and a rollback plan before implementation. Development work is always kept completely separate from our production environment.
 
-## Data Lifecycle
-Customer data travels via AES-256 encrypted everywhere and gets processed only when essential. Contract endings trigger NIST-certified data destruction.
+### Compliance Management
+We are actively working towards SOC 2 and GDPR compliance, verified by annual independent audits. We are committed to tracking and fixing all violations on a clear schedule.
 
-## Incident Response
-Security incidents get logged immutably the moment they happen, with root causes found within twenty-four hours. Critical problems reach customers within seventy-two hours with detailed remediation plans.
+### Data Lifecycle
+Your data is always protected in transit and at rest with AES-256 encryption. At the end of our contract, your data is permanently destroyed using NIST-certified methods.
 
-## People & Ethics
-Our team completes yearly third-party security and ethics certification. We maintain strict conflict policies and keep contractors away from customer data entirely.
+### Incident Response
+Security incidents are logged immutably, and we identify the root cause within 24 hours. We notify affected customers of critical issues within 47 hours with a detailed remediation plan.
 
-## Physical Assets
-Workspace and devices stay locked with military-grade encryption and automatic screen locks. Assets get inventoried quarterly and NIST-wiped when retired.
+### People & Ethics
+Our team completes annual third-party security and ethics certifications to stay current on best practices. We enforce a strict conflict of interest policy and prohibit contractors from accessing any customer data.
 
-## Privacy
-We store data only for essential caching and incident response, with automatic seven-day purging. You control everything through self-service tools with cryptographic verification.
+### Physical Assets
+All company workspaces and devices are secured with military-grade encryption and automatic screen locks. Assets are inventoried quarterly and wiped according to NIST standards upon retirement.
 
-## Risk Management
-Quarterly risk assessments using industry frameworks identify threats with quantified impacts. High-risk items get funded action plans with executive accountability.
+### Privacy
+We only store the data essential for caching and incident response, and is automatically purged after 21 days. You have full control over your information through our self-service tools.
 
-## Security Operations
+### Risk Management
+We conduct yearly risk assessments using industry frameworks to identify and quantify threats. High-risk items receive funded action plans with executive accountability.
 
-Firewalls and advanced monitoring watch systems constantly while patches flow within hours for critical vulnerabilities. Our 24/7 SOC and formal bug bounty program never sleep.
+### Security Operations
+Our systems are protected by constant monitoring and firewalls, with critical patches applied within hours. We operate a formal bug bounty program to proactively identify and address vulnerabilities.
 
-## Sustainability
-We use carbon-neutral cloud resources and refurbished hardware because environmental responsibility matters. Everything runs with continuous optimization.
+### Sustainability
+We are committed to environmental responsibility by using carbon-neutral cloud resources and refurbished hardware. Our infrastructure is continuously optimized to reduce our environmental footprint.
 
-## Vendor Management
-Third parties undergo rigorous assessments and provide current SOC 2 attestations before touching customer data. We audit quarterly and terminate access instantly.
+### Vendor Management
+Third-party vendors undergo rigorous security assessments and must provide current SOC 2 attestations. We audit our vendors quarterly and will terminate access instantly if they fail to meet our standards.
