@@ -28,13 +28,13 @@ Security training completed yearly for all team members. We do not provide contr
 Security incidents documented immediately with root cause analysis within 24 hours. Critical issues trigger customer notifications and detailed remediation plans.
 
 ## Monitoring & Logging
-Security logs collected centrally and retained for 90 days minimum. Automated alerts watch for suspicious activity around the clock.
+Security logs collected centrally and retained for 21 days. Automated alerts watch for suspicious activity around the clock.
 
 ## Physical Security
 Work environment secured with appropriate physical controls. Devices use automatic screen locks and are never left unattended in public spaces.
 
 ## Privacy
-We only store your data for caching or logging for incident response purposes. You can request, update, or delete your information at any time, and all user data automatically deletes after 7 days.
+We only store your data for caching or logging for incident response purposes. You can request, update, or delete your information at any time. User data automatically deletes after 7 days, unless it is part of a security log, which is retained for 21 days.
 
 ## Risk Management
 Yearly risk assessments identify what could go sideways. High-risk items get documented mitigation plans with realistic timelines.
