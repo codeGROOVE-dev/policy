@@ -10,7 +10,7 @@ We secure our systems with modern FIDO2 keys because passwords are no longer suf
 ### Anti-Human Trafficking
 Our company maintains a strict zero-tolerance policy against human trafficking and forced labor in any form. We will report any violation of this policy to law enforcement immediately.
 
-### Business Continuity & Backup
+### Business Continuity & Backups
 We back up critical systems daily to geographically distributed, encrypted storage to ensure your data is always safe. We make it a point to never rely on stored user data, so there isn't much for us to lose.
 
 ### Change Management
