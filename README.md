@@ -14,7 +14,8 @@ Our company maintains a strict zero-tolerance policy against human trafficking a
 We back up critical systems daily to geographically distributed, encrypted storage to ensure your data is always safe. We make it a point to never rely on stored user data, so there isn't much for us to lose.
 
 ### Change Management
-All production changes require clear documentation and a rollback plan before implementation. Development work is always kept completely separate from our production environment.
+
+Production changes require clear documentation and a rollback plan before implementation. Development work is always kept completely separate from our production environment. All changes are reviewed via automated systems.
 
 ### Compliance Management
 We are actively working towards SOC 2 and GDPR compliance, verified by annual independent audits. We are committed to tracking and fixing all violations on a clear schedule.
