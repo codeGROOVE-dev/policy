@@ -21,7 +21,7 @@ Production changes require clear documentation and a rollback plan before implem
 We are actively working towards SOC 2 and GDPR compliance, verified by annual independent audits. We are committed to tracking and fixing all violations on a clear schedule.
 
 ### Data Lifecycle
-Your data is always protected in transit and at rest with AES-256 encryption. At the end of our contract, your data is permanently destroyed using NIST-certified methods.
+Your data is always protected in transit and at rest with AES-256 encryption. Customer data automatically expires within 28 days. At the end of our contract, your data is permanently destroyed using NIST-certified methods. 
 
 ### Incident Response
 Security incidents are logged immutably, and we identify the root cause within 24 hours. We notify affected customers of critical issues within 47 hours with a detailed remediation plan.
