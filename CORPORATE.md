@@ -10,7 +10,7 @@ You get access if you need it, nothing more. We review this regularly. Authentic
 
 ### Artificial Intelligence
 
-We use AI heavily, but we'll never train models on your data.
+We use AI heavily, but we do not allow models to be trained on your data.
 
 ### Business Continuity & Backups
 
