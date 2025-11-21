@@ -34,7 +34,7 @@ Something breaks? We fix it fast and will notify customers within 24 hours if it
 
 ### Physical Assets
 
-We track every device. Full disk encryption on everything. When retiring  NIST SP 800-88 compatib
+We track every device. Full disk encryption on everything. When retiring devices, we destroy all data using NIST SP 800-88 compliant techniques.
 
 ### Risk Management
 
